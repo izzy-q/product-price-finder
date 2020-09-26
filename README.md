@@ -1,2 +1,2 @@
-# product-price-finder
-gives you a csv that's made of all the titles and prices of a certain product on amazon.com
+## Description
+Scrapes the prices of monitors on amazon and returns the data as a csv file
