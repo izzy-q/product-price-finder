@@ -1,6 +1,7 @@
+import csv
+
 from bs4 import BeautifulSoup as soup
 import requests
-import csv
 
 
 # user-agent string and website url
